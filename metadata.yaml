@@ -1,5 +1,8 @@
 _repo: The-False-FacesFurther-Adventures-from-the-History-of-the-Lone-Wolf_9908
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vance, Louis Joseph
@@ -24,6 +27,8 @@ description: The second installment in the thrilling adventures of the Lone Wolf
   and impressionable young women to exact his righteous revenge. This ebook features
   a new introduction by Otto Penzler and has been professionally proofread to ensure
   accuracy and readability on all devices.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9908#The-False-FacesFurther-Adventures-from-the-History-of-the-Lone-Wolf
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
